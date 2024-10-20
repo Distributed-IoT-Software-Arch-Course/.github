@@ -2,7 +2,7 @@
 
 ## Course Overview
 
-The **Distributed and Internet of Things Software Architectures** course aims to equip students with a comprehensive understanding of the challenges and characteristics of Cyber-Physical and Internet of Things (IoT) distributed systems. This course covers the main principles of distributed architectures and software systems, with a specific focus on communication patterns, design principles, and development techniques.
+The **Distributed and Internet of Things Software Architectures** course aims to equip students with a comprehensive understanding of the challenges and characteristics of Cyber-Physical and Internet of Things (IoT) Distributed Software Systems. This course covers the main principles of distributed architectures and software systems, with a specific focus on communication patterns, design principles, and development techniques.
 
 ## Learning Objectives
 
@@ -28,3 +28,8 @@ The **Distributed and Internet of Things Software Architectures** course aims to
 
 ## Available GitHub Repositoris 
 
+1. [Python Object Oriented Programming - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-oop-playground)
+2. [Python Object Oriented Programming - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-oop)
+3. [Python TCP & UDP - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-tcp-udp-playground)
+4. [Python HTTP RESTful API - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-http-api-playground)
+5. [Python HTTP RESTful API - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-http-rest-api)
