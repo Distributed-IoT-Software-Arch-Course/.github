@@ -1,5 +1,9 @@
 # Distributed and Internet of Things Software Architectures
 
+- **Author**: Marco Picone
+- **Affiliation**: University of Modena and Reggio Emilia, Department of Sciences and Methods for Engineering (DISMI)
+- **E-Mail**: marco.picone@unimore.it
+
 ## Course Overview
 
 The **Distributed and Internet of Things Software Architectures** course aims to equip students with a comprehensive understanding of the challenges and characteristics of Cyber-Physical and Internet of Things (IoT) Distributed Software Systems. This course covers the main principles of distributed architectures and software systems, with a specific focus on communication patterns, design principles, and development techniques.
