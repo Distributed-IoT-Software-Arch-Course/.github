@@ -39,3 +39,4 @@ The **Distributed and Internet of Things Software Architectures** course aims to
 5. [Python HTTP RESTful API - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-http-rest-api)
 6. [Python MQTT - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-mqtt-playground)
 7. [Python MQTT - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-mqtt)
+8. [Python Monolithic Software Architecture - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-playground)
