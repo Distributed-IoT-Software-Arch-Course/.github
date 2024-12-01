@@ -32,6 +32,7 @@ The **Distributed and Internet of Things Software Architectures** course aims to
 
 ## Available GitHub Repositoris 
 
+0. [Git Introduction](https://github.com/Distributed-IoT-Software-Arch-Course/.github/blob/main/GitInfo.md)
 1. [Python Object Oriented Programming - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-oop-playground)
 2. [Python Object Oriented Programming - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-oop)
 3. [Python TCP & UDP - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-tcp-udp-playground)
