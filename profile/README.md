@@ -43,3 +43,4 @@ The **Distributed and Internet of Things Software Architectures** course aims to
 8. [Python Monolithic Software Architecture - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-playground)
 9. [Python Monolithic Software Architecture - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-laboratory)
 10. [Docker - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/docker-playground)
+11. [Docker - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/docker-laboratory)
