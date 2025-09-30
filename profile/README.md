@@ -34,19 +34,36 @@ The **Distributed and Internet of Things Software Architectures** course aims to
 
 ![Course's Flow](course_flow.png)
 
-## Available GitHub Repositoris 
+## Topics, Lectures & Repositories 
 
-0. [Git Introduction](https://github.com/Distributed-IoT-Software-Arch-Course/.github/blob/main/GitInfo.md)
-1. [Python Object Oriented Programming - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-oop-playground)
-2. [Python Object Oriented Programming - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-oop)
-3. [Python TCP & UDP - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-tcp-udp-playground)
-4. [Python HTTP RESTful API - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-http-api-playground)
-5. [Python HTTP RESTful API - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-http-rest-api)
-6. [Python MQTT - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-mqtt-playground)
-7. [Python MQTT - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-mqtt)
-8. [Python Monolithic Software Architecture - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-playground)
-9. [Python Monolithic Software Architecture - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-laboratory)
-10. [Docker - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/docker-playground)
-11. [Docker - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/docker-laboratory)
-12. [Python Microservices Software Architecture - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/iot-microservice-arch-playground)
-13. [Python Microservices Software Architecture - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/iot-microservice-arch-laboratory)
+**1. Introduction to Cyber-Physical Systems and Internet of Things**
+   - [Lecture - Introduction to Cyber-Physical Systems and Internet of Things](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/1-CPS-Introduction/1_cps_introduction.md) [Pdf](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/pdf/1_cps_introduction.pdf) [ePub](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/ePub/1_cps_introduction.epub)
+**2. Python Object Oriented Programming & Use Case Modeling**
+   - [Python Object-Oriented Programming (OOP) & Use Case Modeling](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/2-Python-OOP/2_python_oop.md) [Pdf](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/pdf/2_python_oop.pdf) [ePub](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/tree/main/ePub#:~:text=4%20minutes%20ago-,2_python_oop.epub,-Lectures%20metadata%20updated)
+   - [Python Object Oriented Programming - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-oop-playground)
+   - [Python Object Oriented Programming - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-oop)
+**3. IoT Protocols Overview**
+   - [Lecture - IoT Protocols Overview](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/3-IoT-Protocols-Overview/3_iot_protocols_overview.md) [Pdf](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/pdf/3_iot_protocols_overview.pdf) [ePub](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/ePub/3_iot_protocols_overview.epub)
+   - [Python TCP & UDP - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-tcp-udp-playground)
+**4. The HTTP Protocol & RESTful Architectural Style**
+   - [Lecture - The HTTP Protocol & RESTful Architectural Style](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/4-HTTP-Protocol-and-REST/4_http_protocol_and_rest.md) [Pdf](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/pdf/4_http_protocol_and_rest.pdf) [ePub](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/ePub/4_http_protocol_and_rest.epub)
+   - [Python HTTP RESTful API - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-http-api-playground)
+   - [Python HTTP RESTful API - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-http-rest-api)
+**5. The MQTT Protocol**
+   - Lecture - The MQTT Protocol
+   - [Python MQTT - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-mqtt-playground)
+   - [Python MQTT - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-mqtt)
+**6. Monolithic Software Architectures**
+   - Lecture - Monolithic Software Architectures
+   - [Python Monolithic Software Architecture - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-playground)
+   - [Python Monolithic Software Architecture - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-laboratory)
+**7. Distributed Software Architectures**
+   - Lecture - Distributed Software Architectures 
+   - [Docker - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/docker-playground)
+   - [Docker - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/docker-laboratory)
+   - [Python Microservices Software Architecture - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/iot-microservice-arch-playground)
+   - [Python Microservices Software Architecture - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/iot-microservice-arch-laboratory)
+
+## Additional Resources 
+
+- [Git Introduction](https://github.com/Distributed-IoT-Software-Arch-Course/.github/blob/main/GitInfo.md)
