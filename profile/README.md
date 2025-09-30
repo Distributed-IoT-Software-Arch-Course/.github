@@ -30,6 +30,10 @@ The **Distributed and Internet of Things Software Architectures** course aims to
 - **Deployment**:
   - Understand the deployment strategies for distributed systems across different environments.
 
+## Course's Flow
+
+![Course's Flow](course_flow.png)
+
 ## Available GitHub Repositoris 
 
 0. [Git Introduction](https://github.com/Distributed-IoT-Software-Arch-Course/.github/blob/main/GitInfo.md)
