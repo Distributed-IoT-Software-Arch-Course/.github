@@ -64,7 +64,7 @@ The **Distributed and Internet of Things Software Architectures** course aims to
      - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/4-HTTP-Protocol-and-REST/4_http_protocol_and_rest.md)
      - 📕 [Pdf](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/pdf/4_http_protocol_and_rest.pdf) 
      - 📘 [ePub](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/ePub/4_http_protocol_and_rest.epub)
-   - *Source Code*
+   - *🛠️ Source Code*
      - [Python HTTP RESTful API - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-http-api-playground)
      - [Python HTTP RESTful API - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-http-rest-api)
 
