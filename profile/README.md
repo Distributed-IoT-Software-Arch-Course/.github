@@ -70,7 +70,9 @@ The **Distributed and Internet of Things Software Architectures** course aims to
 
 **5. 📚 The MQTT Protocol**
    - *📖 Lecture*
-     - ...
+     - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/5-PubSub-MQTT-Protocol/5_pubsub_mqtt_protocol.md)
+     - 📕 [Pdf](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/pdf/5_pubsub_mqtt_protocol.pdf) 
+     - 📘 [ePub](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/ePub/5_pubsub_mqtt_protocol.epub)
    - *🛠️ Source Code*
      - [Python MQTT - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-mqtt-playground)
      - [Python MQTT - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-mqtt)
