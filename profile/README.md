@@ -79,7 +79,9 @@ The **Distributed and Internet of Things Software Architectures** course aims to
 
 **6. 📚 Monolithic Software Architectures**
    - *📖 Lecture*
-     - ...
+     - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/6-SoftwareArchitectures-Monolithic-Approaches/6_soft_arch_monolithic_approaches.md)
+     - 📕 [Pdf]() 
+     - 📘 [ePub]()
    - *🛠️ Source Code*
      - [Python Monolithic Software Architecture - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-playground)
      - [Python Monolithic Software Architecture - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-laboratory)
