@@ -94,9 +94,9 @@ The **Distributed and Internet of Things Software Architectures** course aims to
 
 **8. 📚 Microservices Software Architectures**
    - *📖 Lecture*
-     - 📝 [Markdown]()
-     - 📕 [Pdf]()
-     - 📘 [ePub]()
+     - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/7-SoftwareArchitectures-Distributed-Approaches/8_soft_arch_microservices.md)
+     - 📕 [Pdf](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/pdf/8_soft_arch_microservices.pdf)
+     - 📘 [ePub](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/ePub/8_soft_arch_microservices.epub)
    - *🛠️ Source Code*
      - [Docker - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/docker-playground)
      - [Docker - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/docker-laboratory)
