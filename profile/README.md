@@ -105,4 +105,5 @@ The **Distributed and Internet of Things Software Architectures** course aims to
 
 ## 🎓 Additional Resources 
 
+- [Exam & Project Info](https://github.com/Distributed-IoT-Software-Arch-Course/exam-project-info)
 - [Git Introduction](https://github.com/Distributed-IoT-Software-Arch-Course/.github/blob/main/GitInfo.md)
