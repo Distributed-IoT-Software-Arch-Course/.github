@@ -103,17 +103,11 @@ The **Distributed and Internet of Things Software Architectures** course aims to
      - [Python Microservices Software Architecture - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/iot-microservice-arch-playground)
      - [Python Microservices Software Architecture - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/iot-microservice-arch-laboratory)
 
-**9. 📚 Edge & Cloud Computing**
+**9. 📚 End-2-End IoT Architecture Design**
    - *📖 Lecture*
-     - 📝 [Markdown])
-     - 📕 [Pdf]()
-     - 📘 [ePub]()
-
-**10. 📚 End-2-End IoT Architecture Design**
-   - *📖 Lecture*
-     - 📝 [Markdown])
-     - 📕 [Pdf]()
-     - 📘 [ePub]()
+     - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/9-End2End-ArchitectureDesign/9_end2end_archicture_design.md)
+     - 📕 [Pdf](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/pdf/9_end2end_archicture_design.pdf)
+     - 📘 [ePub](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/ePub/9_end2end_archicture_design.epub)
 
 ## 🎓 Additional Resources 
 
