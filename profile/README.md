@@ -40,7 +40,7 @@ The **Distributed and Internet of Things Software Architectures** course aims to
   - *📖 Lecture*
     - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/1-CPS-Introduction/1_cps_introduction.md) 
 
-**2. 📚 Python Object Oriented Programming & Use Case Modeling**
+**2. 📚 Python Best Practices, Object Oriented Programming and Use Case Modeling**
    - *📖 Lecture*
      - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/2-Python-OOP/2_python_oop.md) 
    - *🛠️ Source Code - Plaground & Laboratory*
