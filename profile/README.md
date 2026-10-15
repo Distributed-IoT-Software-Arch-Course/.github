@@ -38,27 +38,27 @@ The **Distributed and Internet of Things Software Architectures** course aims to
 
 **1. 📚 Introduction to Cyber-Physical Systems and Internet of Things**
   - *📖 Lecture*
-    - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/1-CPS-Introduction/1_cps_introduction.md) 
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/cps-and-iot/cps-introduction/cps_introduction.md) 
 
 **2. 📚 Python Best Practices, Object Oriented Programming and Use Case Modeling**
    - *📖 Lecture*
-     - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/2-Python-OOP/2_python_oop.md) 
+     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/programming-and-software-engineering/python-best-practices-and-oop/python_oop.md) 
    - *🛠️ Source Code - Plaground & Laboratory*
      - [Python Object Oriented Programming - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-oop-playground)
      - [Python Object Oriented Programming - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-oop)
 
 **3. 📚 IoT Protocols Overview**
    - *📖 Lecture* 
-     - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/3-IoT-Protocols-Overview/3_iot_protocols_overview.md)
+     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/iot-protocols-overview/iot_protocols_overview.md)
    - *🛠️ Source Code - Plaground & Laboratory*
      - [Python TCP & UDP - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-tcp-udp-playground)
 
 **4. 📚 The HTTP Protocol & RESTful Architectural Style**
    - *📖 Lecture* 
-     - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/4-HTTP-Protocol-and-REST/4_http_protocol_and_rest.md)
+     - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/http-protocol-and-rest/http_protocol_and_rest.md)
    - *🛠️ Source Code - Plaground & Laboratory*
-     - [Python HTTP RESTful API - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-http-api-playground)
-     - [Python HTTP RESTful API - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-http-rest-api)
+     - [Python HTTP RESTful API - Playground](https://github.com/Marco-Picone-Teaching/python-http-api-playground)
+     - [Python HTTP RESTful API - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-http-rest-api)
 
 **5. 📚 The MQTT Protocol**
    - *📖 Lecture*
