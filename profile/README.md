@@ -64,8 +64,8 @@ The **Distributed and Internet of Things Software Architectures** course aims to
    - *📖 Lecture*
      - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/communication-protocols-and-patterns/pubsub-mqtt-protocol/pubsub_mqtt_protocol.md)
    - *🛠️ Source Code - Plaground & Laboratory*
-     - [Python MQTT - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/python-mqtt-playground)
-     - [Python MQTT - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/laboratory-python-mqtt)
+     - [Python MQTT - Playground](https://github.com/Marco-Picone-Teaching/python-mqtt-playground)
+     - [Python MQTT - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-mqtt)
 
 **6. 📚 Monolithic Software Architectures**
    - *📖 Lecture*
