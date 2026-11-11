@@ -67,29 +67,29 @@ The **Distributed and Internet of Things Software Architectures** course aims to
      - [Python MQTT - Playground](https://github.com/Marco-Picone-Teaching/python-mqtt-playground)
      - [Python MQTT - Laboratory](https://github.com/Marco-Picone-Teaching/laboratory-python-mqtt)
 
-**6. 📚 Monolithic Software Architectures**
-   - *📖 Lecture*
-     - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/6-SoftwareArchitectures-Monolithic-Approaches/6_soft_arch_monolithic_approaches.md)
-   - *🛠️ Source Code - Plaground & Laboratory*
-     - [Python Monolithic Software Architecture - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-playground)
-     - [Python Monolithic Software Architecture - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/iot-monolithic-arch-laboratory)
+**6. 📚 Software Architecture - Monolithic Approaches**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/software-architectures/soft-arch-monolithic-approaches/soft_arch_monolithic_approaches.md)
+  - *🛠️ Source Code - Playground & Laboratory*
+    - [Python Monolithic Software Architecture - Playground](https://github.com/Marco-Picone-Teaching/iot-monolithic-arch-playground)
+    - [Python Monolithic Software Architecture - Laboratory](https://github.com/Marco-Picone-Teaching/iot-monolithic-arch-laboratory)
 
-**7. 📚 Distributed Software Architectures**
-   - *📖 Lecture*
-     - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/7-SoftwareArchitectures-Distributed-Approaches/7_soft_arch_distributed_approaches.md)
+**7. 📚 Software Architecture - Distributed Approaches**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/software-architectures/soft-arch-distributed-approaches/soft_arch_distributed_approaches.md)
 
-**8. 📚 Microservices Software Architectures**
-   - *📖 Lecture*
-     - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/8-MicroservicesSoftwareArchitecture/8_soft_arch_microservices.md)
-   - *🛠️ Source Code - Plaground & Laboratory*
-     - [Docker - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/docker-playground)
-     - [Docker - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/docker-laboratory)
-     - [Python Microservices Software Architecture - Playground](https://github.com/Distributed-IoT-Software-Arch-Course/iot-microservice-arch-playground)
-     - [Python Microservices Software Architecture - Laboratory](https://github.com/Distributed-IoT-Software-Arch-Course/iot-microservice-arch-laboratory)
+**8. 📚 Software Architecture - Microservices Software Architectures**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/software-architectures/soft-arch-microservices/soft_arch_microservices.md)
+  - *🛠️ Source Code - Playground & Laboratory*
+    - [Docker - Playground](https://github.com/Marco-Picone-Teaching/docker-playground)
+    - [Docker - Laboratory](https://github.com/Marco-Picone-Teaching/docker-laboratory)
+    - [Python Microservices Software Architecture - Playground](https://github.com/Marco-Picone-Teaching/iot-microservice-arch-playground)
+    - [Python Microservices Software Architecture - Laboratory](https://github.com/Marco-Picone-Teaching/iot-microservice-arch-laboratory)
 
-**9. 📚 End-2-End IoT Architecture Design**
-   - *📖 Lecture*
-     - 📝 [Markdown](https://github.com/Distributed-IoT-Software-Arch-Course/distributed-iot-software-arch-lectures/blob/main/Lectures/9-End2End-ArchitectureDesign/9_end2end_archicture_design.md)
+**9. 📚 End-2-End Architecture Design**
+  - *📖 Lecture*
+    - 📝 [Markdown](https://github.com/Marco-Picone-Teaching/mp-lectures/blob/main/Lectures/end-to-end-system-design/end2end-architecture-design/end2end_architecture_design.md)
 
 ## 🎓 Additional Resources 
 
